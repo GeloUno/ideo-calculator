@@ -1,0 +1,44 @@
+[
+    {
+        "products": [
+            "tvSubscription",
+            "internetSubscription"
+        ],
+        "name": "Internet + telewizja",
+        "priceByTheYear": [
+            {
+                "year": 2023,
+                "price": 79
+            },
+            {
+                "year": 2024,
+                "price": 89
+            },
+            {
+                "year": 2025,
+                "price": 99
+            }
+        ]
+    },
+    {
+        "products": [
+            "phoneSubscription",
+            "internetSubscription"
+        ],
+        "name": "Internet + Abonament telefoniczny",
+        "priceByTheYear": [
+            {
+                "year": 2023,
+                "price": 64
+            },
+            {
+                "year": 2024,
+                "price": 64
+            },
+            {
+                "year": 2025,
+                "price": 64
+            }
+        ]
+    }
+]

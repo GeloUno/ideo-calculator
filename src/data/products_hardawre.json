@@ -1,0 +1,9 @@
+{
+    "priceRegular": 29,
+    "priceInPromotion": null,
+    "priceInPackage": 0,
+    "isRequiredSubscription": [
+        "TvSubscription"
+    ],
+    "name": "Decoder 4K"
+}

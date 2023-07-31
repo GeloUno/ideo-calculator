@@ -1,0 +1,53 @@
+{
+    "tvSubscription": {
+        "details": [
+            {
+                "year": 2023,
+                "priseSubscription": 49
+            },
+            {
+                "year": 2024,
+                "priseSubscription": 49
+            },
+            {
+                "year": 2025,
+                "priseSubscription": 59
+            }
+        ],
+        "isHardwareRequired": true
+    },
+    "internetSubscription": {
+        "details": [
+            {
+                "year": 2023,
+                "priseSubscription": 39
+            },
+            {
+                "year": 2024,
+                "priseSubscription": 49
+            },
+            {
+                "year": 2025,
+                "priseSubscription": 59
+            }
+        ],
+        "isHardwareRequired": false
+    },
+    "phoneSubscription": {
+        "details": [
+            {
+                "year": 2023,
+                "priseSubscription": 29
+            },
+            {
+                "year": 2024,
+                "priseSubscription": 29
+            },
+            {
+                "year": 2025,
+                "priseSubscription": 29
+            }
+        ],
+        "isHardwareRequired": false
+    }
+}
