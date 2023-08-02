@@ -1,8 +1,8 @@
 [
     {
         "products": [
-            "tvSubscription",
-            "internetSubscription"
+            "TvSubscription",
+            "InternetSubscription"
         ],
         "name": "Internet + telewizja",
         "priceByTheYear": [
@@ -22,8 +22,8 @@
     },
     {
         "products": [
-            "phoneSubscription",
-            "internetSubscription"
+            "PhoneSubscription",
+            "InternetSubscription"
         ],
         "name": "Internet + Abonament telefoniczny",
         "priceByTheYear": [

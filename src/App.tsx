@@ -1,10 +1,10 @@
 import './App.css';
-import { Container } from 'react-bootstrap';
+import ProductsPage from './pages/ProductsPage';
 
 function App() {
   return (
     <div className="App">
-      <Container fluid="md">some</Container>
+      <ProductsPage />
     </div>
   );
 }

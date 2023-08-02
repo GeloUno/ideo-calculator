@@ -1,5 +1,5 @@
-{
-    "tvSubscription": {
+[
+    {
         "details": [
             {
                 "year": 2023,
@@ -14,9 +14,11 @@
                 "priseSubscription": 59
             }
         ],
-        "isHardwareRequired": true
+        "isHardwareRequired": true,
+        "name": "Telewizja",
+        "product": "TvSubscription"
     },
-    "internetSubscription": {
+    {
         "details": [
             {
                 "year": 2023,
@@ -31,9 +33,11 @@
                 "priseSubscription": 59
             }
         ],
-        "isHardwareRequired": false
+        "isHardwareRequired": false,
+        "name": "Internet",
+        "product": "InternetSubscription"
     },
-    "phoneSubscription": {
+    {
         "details": [
             {
                 "year": 2023,
@@ -48,6 +52,8 @@
                 "priseSubscription": 29
             }
         ],
-        "isHardwareRequired": false
+        "isHardwareRequired": false,
+        "name": "Abonament telefoniczny",
+        "product": "PhoneSubscription"
     }
-}
+]
